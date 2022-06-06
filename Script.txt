@@ -1,0 +1,35 @@
+1. We're going to make a game!
+2. ... but we'll need a character ...
+3. This is Froggy!
+4. We want to make Froggy JUMP!
+5. A computer doesn't know what a Frog is ...
+6. Computers only know MATHS!
+7. We can create a FORCE to push Froggy UP
+8. Set the STRENGTH of the force
+9. Gravity doesn't exist in a computer
+10. Gravity is another FORCE that pushes DOWN
+11. Combine up and down forces!
+12. We want to push horizontally
+13. Define the strength
+14. Combine all 3 forces
+15. and make a JUMP!
+16. The jump is a SYMMETRICAL parabola
+17. We need to animate Froggy
+18. We can use the values of the parabola! 2/6
+19. We can use the values of the parabola! 3/6
+20. We can use the values of the parabola! 4/6
+21. We can use the values of the parabola! 5/6
+22. We can use the values of the parabola! 6/6
+23. We need something we can avoid to add CHALLENGE
+24. This lava ball will work, but it doesn't MOVE
+25. We need to use MATHS to find a way to move the ball UP and DOWN
+26. The Sine function produced a value that makes a WAVE
+27. If we use the Sine value with X as TIME we can use the Y value to move it up and down!
+28. The FREQUENCY of a wave determines how often it appears, and the AMPLITUDE how high it is
+29. Set the movement of the ball
+30. Let's get Froggy moving!
+31. Let's move the platforms around ... but we want them to keep CHANGING
+32. We need to make sure Froggy can always jump to the next platform ...
+33. Adjust the ANGLE of variation in platform position so it matches the PARABOLA of Froggy's jump!
+34. How far can you go?
+35. Define a BRONZE, SILVER and GOLD medal value!
